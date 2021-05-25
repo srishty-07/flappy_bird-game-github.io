@@ -18,7 +18,7 @@ var bg = new Image();
 var fg = new Image();
 var pn = new Image();
 var ps = new Image();
-// source code
+// sources
 bird.src = "img/bird.png";
 bg.src = "img/bg.png";
 fg.src = "img/fg.png";
