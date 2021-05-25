@@ -1,11 +1,11 @@
 var canvas = document.getElementById("canvas");
 var context = canvas.getContext("2d");
 
-var playerName=prompt("Player Name:","");
-if(playerName!=null){
-    document.getElementById("welcome").innerHTML =
-     playerName;
-}
+// var playerName=prompt("Player Name:","");
+// if(playerName!=null){
+//     document.getElementById("welcome").innerHTML =
+//      playerName;
+// }
 
 // to load images
 
